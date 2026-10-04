@@ -1,5 +1,8 @@
 # Capability Embedding for Capability Composition
 
+NAME : SHIVAS SEAGAL K S
+REGISTER NUMBER : TCR24CS061
+
 ## Overview
 
 This project demonstrates a vector-based representation of application capabilities and how smaller capabilities can be composed into a larger workflow.
